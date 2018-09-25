@@ -1,0 +1,10 @@
+jedis:
+  host: 123.56.217.55
+  port: 6397
+  password: weiqichao
+  maxTotal: 1024
+  maxIdle: 512
+  minIdle: 10
+  maxTimes: 10000
+server:
+  port: 9101
