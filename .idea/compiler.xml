@@ -12,6 +12,7 @@
         <module name="managerserviceimpl" />
         <module name="managerserviceinterface" />
         <module name="pinyougoucommons" />
+        <module name="pinyougoushop" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

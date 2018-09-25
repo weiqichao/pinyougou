@@ -11,6 +11,7 @@
     <modules>
         <module>pinyougou-commons</module>
         <module>pinyougou-manager</module>
+        <module>pinyougou-shop</module>
     </modules>
 
 

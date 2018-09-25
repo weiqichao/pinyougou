@@ -8,9 +8,7 @@
     <file url="file://$PROJECT_DIR$/pinyougou-manager/manager-dao" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pinyougou-manager/manager-pojo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pinyougou-manager/manager-serviceimpl" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/pinyougou-manager/manager-serviceinpl" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pinyougou-manager/manager-serviceinterface" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/pinyougou-manager/managerserviceinfterface" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou-shop" charset="UTF-8" />
   </component>
 </project>
